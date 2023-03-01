@@ -1,4 +1,7 @@
 # **`Инструкция по Git`**
+---
+
+Тест-текст, будет ли вызван конфликт при слиянии веток???
 
 ---
 ### [Github.com](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
