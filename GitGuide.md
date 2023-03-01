@@ -1,6 +1,9 @@
 # **`Инструкция по Git`**
 
 ---
+**Тест с конфликтом при слиянии**
+
+---
 ### [Github.com](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 
 ### [Github.com/Training](https://github.com/githubtraining/training-manual)
